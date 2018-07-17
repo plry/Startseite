@@ -1,8 +1,0 @@
-
-Hier soll mal der Code für das CRM Frontend rein
-
-
-********************************************************
-Hier ist das CRM Frontend Programmiert
-
-*********************************************************
